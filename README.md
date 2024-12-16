@@ -2,7 +2,7 @@
 - 🥳 某厂Java高级开发工程师，CSDN技术博客 4w+ 粉丝博主。
 - 👉 作品：[Tongyao的主页](https://ityao.cn) | [字节小柜](http://store.ityao.cn/) | [相册墙](https://wall.ityao.cn/)
 - 🧑‍💻 开发：[Maven私有仓库](https://maven.ityao.cn/repository/maven-public/) | [镜像中心](https://mirrors.ityao.cn/)
-- 🪶 博客：[CSDN](https://blog.csdn.net/u014641168) | [掘金【汪汪协会成员】](https://juejin.cn/user/4174216315803192)
+- 🪶 博客：[CSDN](https://blog.csdn.net/u014641168)
 - 🏷️ 开源：[Wall](https://github.com/zhang-tong-yao) | [TyPlayer](https://github.com/zhang-tong-yao/TyPlayer) | [TongYao2.0【开发中】](https://gitee.com/Super_TongYao/TongYao2.0) | 🌟求星星
 
 ### 关于Me✨
